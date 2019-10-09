@@ -1,4 +1,4 @@
-package by.epam.Unit3;
+package by.epam.unit3;
 
 import by.epam.Unit3.Counter.Counter;
 import by.epam.Unit3.Customer.Customer;
