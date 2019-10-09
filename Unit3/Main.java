@@ -1,14 +1,14 @@
 package by.epam.unit3;
 
-import by.epam.Unit3.Counter.Counter;
-import by.epam.Unit3.Customer.Customer;
-import by.epam.Unit3.Customer.CustomerLogic;
-import by.epam.Unit3.Customer.Shop;
-import by.epam.Unit3.Student.Student;
-import by.epam.Unit3.Student.StudentLogic;
-import by.epam.Unit3.Time.Time;
-import by.epam.Unit3.Train.Train;
-import by.epam.Unit3.Train.TrainLogic;
+import by.epam.unit3.counter.Counter;
+import by.epam.unit3.customer.Customer;
+import by.epam.unit3.customer.CustomerLogic;
+import by.epam.unit3.customer.Shop;
+import by.epam.unit3.student.Student;
+import by.epam.unit3.student.StudentLogic;
+import by.epam.unit3.time.Time;
+import by.epam.unit3.train.Train;
+import by.epam.unit3.train.TrainLogic;
 
 public class Main {
 
